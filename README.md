@@ -3,7 +3,7 @@
 #### I'm Ritik Srivastava and here's a little about me:
 
 * 🔭 I’m currently working on MERN Stack.
-* 🌱 I’m currently learning scaling and making apps professional and production level.
+* 🌱 I’m currently learning scaling and making apps production level.
 * 🤔 I love to play with MERN Stack and integrating services.
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ritiksr25/) or [Twitter](https://twitter.com/ritiksr25)
 * 😄 You can find me over the web with [@ritiksr25](https://www.google.com/search?q=ritiksr25).
